@@ -23,11 +23,11 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Hello, I'm Cera. I'm a Computer Science and Spanish major at Central College with a minor in Philosophy.</p>
         <p>
-          This blog is called C4: Cera's Chocolate Culture at Central.
+          This blog is for my LAS-410 class.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
+        <h2 className={utilStyles.headingLg}>C4: Cera's Chocolate Culture at Central</h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>
