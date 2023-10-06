@@ -6,3 +6,5 @@ Ran `npm install -g npm@latest` when I couldn't create a Next.js app.
 You must be in the nextjs-blog directory to `npm run dev`.
 
 [Essential Info about API Routes](https://nextjs.org/learn/basics/api-routes/api-routes-details)
+
+Deployment issue
