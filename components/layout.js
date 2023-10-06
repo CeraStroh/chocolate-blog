@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
 const name = 'Cera Stroh';
-export const siteTitle = 'Next.js Sample Website';
+export const siteTitle = 'C4: Cera\'s Chocolate Culture at Central';
 
 export default function Layout({ children, home }) {
   return (
