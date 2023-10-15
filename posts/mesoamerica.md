@@ -1,6 +1,6 @@
 ---
 title: 'The Beauty of Mesoamerican Chocolate Art & Language'
-date: '2020-01-01'
+date: '2023-09-26'
 ---
 
 Welcome once again to C4: Cera's Chocolate Culture at Central! In previous posts, I have mainly focused on my Computer Science classes and experience so I would like to switch it up and primarily relate to my other major, Spanish. In just about every Spanish class at Central, we are reminded of Spain's conquest of the Americas and the indigenous peoples, since it is such an important moment in Latin American and Spanish history. As I mentioned in my first blog post, chocolate was one of the things that originated with the indigenous peoples and that the Spaniards and other Europeans brought back to their countries when they discovered it.
@@ -13,7 +13,7 @@ The best combinations of art and language about cacao that I can think of are hi
 
 The image below is a drawing of one such example found in a Classic Mayan tomb, courtesy of the Coes (50).
 
-![Primary Standard Sequence (PSS) from a Classic Maya vase](/public/images/mesoamerican-pss.png)
+![Primary Standard Sequence (PSS) from a Classic Maya vase](./../public/images/mesoamerican-pss.png)
 
 The _a_ and _b_ glyphs are the dedication, the _c_ glyphs say the shape is a vase for drinks, and the _d_ glyphs are cacao glyphs. A lot of the other information is not mentioned but it is still enough to identify why the vase was in the burial site. Even though this is a recreated drawing, I can still see the intricate detail of each glyph and how they are like individual words that are part of a whole sentence or a whole description. I just wish I could see it in its original version on the actual vase though.
 

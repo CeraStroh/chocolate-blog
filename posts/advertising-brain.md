@@ -1,6 +1,6 @@
 ---
 title: 'Chocolate in Advertising and in the Brain'
-date: '2020-01-01'
+date: '2023-09-18'
 ---
 
 Welcome back to C4: Cera's Chocolate Culture at Central! Today, I will cover some more ways that chocolate impacts our culture from Central College's very own Liberal Arts Seminar class about chocolate. Except this time, we will focus a little more on the individual. Specifically, the impacts on an individual person's brain.

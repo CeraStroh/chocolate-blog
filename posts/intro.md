@@ -1,6 +1,6 @@
 ---
 title: 'Introduction to Chocolate Culture'
-date: '2020-01-01'
+date: '2023-09-04'
 ---
 
 Welcome to the first blog post of Cera's Chocolate Culture at Central, or C4 for short! To start off, I want to highlight some material and activities in my LAS-410 class, the first chapter of _The True History of Chocolate_, a book by Sophie and Michael Coe, as well as the documentary, "Chocolate Perfection," hosted by chef Michel Roux Jr. as he searches for a way to make the perfect chocolate. Specifically, I want to share what I've learned when it comes to chocolate impacting our culture.
